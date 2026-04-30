@@ -50,7 +50,7 @@ const Footer = () => {
             <p className='text-lg font-bold mb-5 text-[#0f4c81]'>
               HOSPITAL
             </p>
-
+      
             <ul className='flex flex-col gap-3 text-gray-600'>
               {['Home','About Us','Services','Appointment Booking','Privacy Policy'].map((item,i)=>(
                 <li
@@ -93,7 +93,7 @@ const Footer = () => {
           <hr className='border-[#d6e4ff]' />
 
           <p className='py-5 text-sm text-center text-gray-500'>
-            © 2025 Super Speciality Hospital — All Rights Reserved.
+            © 2025 Super Speciality Hospital  — All Rights Reserved.
           </p>
         </div>
 
